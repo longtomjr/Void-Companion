@@ -73,9 +73,19 @@ namespace Void_Companion.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap DEVoid_Key {
+            get {
+                object obj = ResourceManager.GetObject("DEVoid_Key", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap warframe_game_wide {
             get {
-                object obj = ResourceManager.GetObject("warframe_game-wide", resourceCulture);
+                object obj = ResourceManager.GetObject("warframe_game_wide", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

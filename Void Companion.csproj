@@ -73,6 +73,7 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -92,9 +93,6 @@
   <ItemGroup>
     <Content Include="DEVoid_Key.ico" />
     <None Include="Resources\Banner1.png" />
-    <None Include="Resources\Banner.png" />
-    <None Include="Resources\Dicks and chiks guide 4 chris.png" />
-    <None Include="Resources\Void Dick guide 4 chris1.png" />
     <None Include="Resources\DEVoid_Key.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
