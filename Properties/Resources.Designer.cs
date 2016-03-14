@@ -63,16 +63,6 @@ namespace Void_Companion.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Banner {
-            get {
-                object obj = ResourceManager.GetObject("Banner", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap Banner1 {
             get {
                 object obj = ResourceManager.GetObject("Banner1", resourceCulture);
@@ -83,19 +73,9 @@ namespace Void_Companion.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Dicks_and_chiks_guide_4_chris {
+        internal static System.Drawing.Bitmap DEVoid_Key {
             get {
-                object obj = ResourceManager.GetObject("Dicks and chiks guide 4 chris", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Void_Dick_guide_4_chris {
-            get {
-                object obj = ResourceManager.GetObject("Void Dick guide 4 chris", resourceCulture);
+                object obj = ResourceManager.GetObject("DEVoid_Key", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -105,7 +85,7 @@ namespace Void_Companion.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap warframe_game_wide {
             get {
-                object obj = ResourceManager.GetObject("warframe_game-wide", resourceCulture);
+                object obj = ResourceManager.GetObject("warframe_game_wide", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
