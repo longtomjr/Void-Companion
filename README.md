@@ -2,7 +2,7 @@
 Void Companion for Warframe
 
 <Void Companion - Warframe tool for easy access to Orokin Void drop tables>
-Copyright (C) <2016> PixelatedPlayer
+Copyright (C) <2016>-<PixelatedPlayer>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
